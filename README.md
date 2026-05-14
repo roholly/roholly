@@ -7,7 +7,7 @@
 
 ---
 
-I've never been comfortable leading work I don't understand. This portfolio documents that instinct in practice, analytical work drawn from 30 years of operational experience and formal graduate study, presented together because the two inform each other.
+I've never been comfortable leading work I don't understand. This portfolio documents that instinct in practice. Analytical work drawn from 30 years of operational experience and formal graduate study, presented together because the two inform each other.
 
 I've spent 30 years extracting signal from complex, high-volume, poorly-documented data, designing collection pipelines, building enrichment and correlation systems, and delivering stakeholder-specific intelligence in high-stakes operational environments. That work has run parallel to continuous self-directed technical education throughout my career, including math, computer science, programming, a post-graduate certification in data science and business analytics at UT McCombs, and now Georgia Tech's OMSA. The formal methods have always followed the operational problems that made them necessary.
 
@@ -15,7 +15,7 @@ This portfolio is where those two things meet.
 
 ---
 
-## Analytical Work
+## Portfolio
 
 | Repository | Domain | Methods |
 |---|---|---|
@@ -46,8 +46,8 @@ Optimization: linear and integer programming, MILP, MINLP, network optimization
 Statistical testing: hypothesis testing, ANOVA, chi-square, A/B testing  
 Simulation: discrete-event simulation
 
-**Model Discipline**  
-I pay attention to the parts that are easy to skip: assumption validation, cross-validation strategy, class imbalance handling, cost-weighted metric selection, data leakage prevention, and being honest about what a model can and can't tell you.
+**What Drives the Work**  
+The most rewarding part is the subject matter. Getting to understand a new domain, learning what the data actually represents, and figuring out how disparate pieces connect to produce something meaningful and actionable. That's the part I find genuinely interesting. The methods are in service of that. So is the commitment to letting the results say what they say, without steering them toward a more convenient answer.
 
 **Data Engineering**  
 ETL/ELT pipeline design · custom schema and data model design · API integration  
@@ -72,7 +72,7 @@ Full documentation of this system is in the [IRS MeF Intelligence System](https:
 
 ## Background
 
-30 years in federal IT, primarily IRS, DoD, Navy, Army, and the VA, through SRA International, IBM, Cognosante, GovernmentCIO, and Luminara Consulting, the woman-owned small business I founded (SBA-certified, D&B Past Performance score: 96%). Co-authored two IBM Redbook publications on enterprise IT service management.
+30 years in enterprise IT, primarily IRS, DoD, Navy, Army, and the VA, through SRA International, IBM, Cognosante, GovernmentCIO, and Luminara Consulting, the woman-owned small business I founded (SBA-certified, D&B Past Performance score: 96%). Co-authored two IBM Redbook publications on enterprise IT service management.
 
 I'm looking for analytics leadership roles where senior judgment and genuine technical depth are both expected, where leading the work and understanding the work aren't treated as separate jobs.
 

@@ -17,19 +17,19 @@ This portfolio is where those two things meet.
 
 ## Portfolio
 
-| Repository | Domain | Methods |
-|---|---|---|
-| [IRS MeF Intelligence System](https://github.com/roholly/irs-mef-intelligence-system) | Enterprise Monitoring · Event Management · Custom Log Monitoring | Stateful log parsing, cross-source data integration, custom schema design |
-| [Power Grid Optimization](https://github.com/roholly/power-grid-optimization) | Energy Markets & Grid Operations | Holt-Winters, CUSUM, MILP, MIP |
-| [ReneWind Predictive Maintenance](https://github.com/roholly/renewind-predictive-maintenance) | Renewable Energy / Industrial ML | XGBoost, Random Forest, GBM, SMOTE, sklearn Pipeline |
-| [EasyVisa Classification](https://github.com/roholly/easyvisa-classification) | Immigration / Policy Analytics | XGBoost, Random Forest, AdaBoost, GBM, Stacking |
-| [Trade & Ahead Stock Clustering](https://github.com/roholly/trade-ahead-stock-clustering) | Finance / Portfolio Analytics | K-Means, hierarchical clustering |
-| [E-news Express A/B Test](https://github.com/roholly/enews-express-ab-test) | Digital Media / Experimental Design | Two-sample t-test, proportions z-test, chi-square, ANOVA |
-| [Atlanta Climate Analysis](https://github.com/roholly/atlanta-climate-analysis) | Environmental / Time Series | Holt-Winters, CUSUM, linear regression |
-| [Utility Shutoff Optimization](https://github.com/roholly/utility-shutoff-optimization) | Operations Research / Public Utility | SVM, logistic regression, integer programming, network optimization |
-| [Airport Security Simulation](https://github.com/roholly/airport-security-simulation) | Operations Research / Discrete-Event Simulation | SimPy, Kolmogorov-Smirnov, linear regression |
-| [Geospatial Data Integration: SSURGO & Macrostrat](https://github.com/roholly/geospatial-ssurgo-macrostrat) | Cross-Domain Data Integration | K-Means, logistic regression, linear regression, REST API integration |
-| [RoSmart Circuit: MIT REDD Energy App](https://github.com/roholly/RoSmart_Circuit_MIT_Data) | Energy Disaggregation / Web Development | Java, aggregation pipelines, MIT REDD dataset |
+| Repository | Domain |
+|---|---|
+| [IRS MeF Intelligence System](https://github.com/roholly/irs-mef-intelligence-system) | Enterprise Monitoring · Event Management · Custom Log Monitoring |
+| [Power Grid Optimization](https://github.com/roholly/power-grid-optimization) | Energy Markets · Grid Operations · Operations Research |
+| [ReneWind Predictive Maintenance](https://github.com/roholly/renewind-predictive-maintenance) | Renewable Energy · Industrial ML |
+| [EasyVisa Classification](https://github.com/roholly/easyvisa-classification) | Immigration · Policy Analytics |
+| [Trade & Ahead Stock Clustering](https://github.com/roholly/trade-ahead-stock-clustering) | Finance · Portfolio Analytics |
+| [E-news Express A/B Test](https://github.com/roholly/enews-express-ab-test) | Digital Media · Experimental Design |
+| [Atlanta Climate Analysis](https://github.com/roholly/atlanta-climate-analysis) | Environmental · Time Series |
+| [Utility Shutoff Optimization](https://github.com/roholly/utility-shutoff-optimization) | Operations Research · Public Utility |
+| [Airport Security Simulation](https://github.com/roholly/airport-security-simulation) | Operations Research · Discrete-Event Simulation |
+| [Geospatial Data Integration: SSURGO & Macrostrat](https://github.com/roholly/geospatial-ssurgo-macrostrat) | Geospatial Data Integration · Geology · Soil Science |
+| [RoSmart Circuit: MIT REDD Energy App](https://github.com/roholly/RoSmart_Circuit_MIT_Data) | Energy Disaggregation · Reporting Tool · Proof of Concept |
 
 ---
 

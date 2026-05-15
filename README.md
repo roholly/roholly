@@ -1,6 +1,6 @@
 # Rosemary Holly
 
-**Data Science and Analytics Leader**  
+**Senior Leader, Data and AI Strategy · Technology, Analytics, and Enterprise Transformation**  
 [LinkedIn](https://www.linkedin.com/in/rosemaryholly/)
 
 *Graduate study: Georgia Tech OMSA (Online Master of Science in Analytics) · UT McCombs Post-Graduate Certificate in Data Science & Business Analytics*
@@ -74,7 +74,7 @@ Full documentation of this system is in the [IRS MeF Intelligence System](https:
 
 30 years in enterprise IT, primarily IRS, DoD, Navy, Army, and the VA, through SRA International, IBM, Cognosante, GovernmentCIO, and Luminara Consulting, the woman-owned small business I founded (SBA-certified, D&B Past Performance score: 96%). Co-authored two IBM Redbook publications on enterprise IT service management.
 
-I'm looking for analytics leadership roles where senior judgment and genuine technical depth are both expected, where leading the work and understanding the work aren't treated as separate jobs.
+I'm looking for senior leadership roles where strategic judgment, analytical depth, and operational credibility are all expected — where leading the work and understanding the work aren't treated as separate jobs.
 
 ---
 

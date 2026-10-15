@@ -97,7 +97,7 @@ Enterprise IT across the IRS, DoD, Navy, Army, and the VA, through SRA Internati
 
 Graduate study: Master of Science in Analytics, Georgia Tech (in progress) · UT McCombs Post-Graduate Certificate in Data Science & Business Analytics.
 
-I want to do hands-on technical work in AI evaluation and safety, and I bring a track record of leading technical teams through ambiguous, high-stakes problems.
+I'm drawn to roles where strategic judgment, analytical depth, and technical credibility are all expected, where leading the work and understanding the work aren't treated as separate jobs.
 
 ---
 

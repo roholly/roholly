@@ -1,42 +1,63 @@
 # Rosemary Holly
 
-**Senior Leader, Data and AI Strategy · Technology, Analytics, and Enterprise Transformation**  
+**Data Science · Data Engineering · AI Strategy**  
 [LinkedIn](https://www.linkedin.com/in/rosemaryholly/)
-
-*Graduate study: Georgia Tech OMSA (Online Master of Science in Analytics) · UT McCombs Post-Graduate Certificate in Data Science & Business Analytics*
 
 ---
 
-I've never been comfortable leading work I don't understand. This portfolio documents that instinct in practice. Analytical work drawn from 30 years of operational experience and formal graduate study, presented together because the two inform each other.
+Whether I'm leading the work or doing it, I've never been comfortable with work I don't understand. This portfolio documents that instinct in practice. Analytical work drawn from long operational experience and formal graduate study, presented together because the two inform each other.
 
-I've spent 30 years extracting signal from complex, high-volume, poorly-documented data, designing collection pipelines, building enrichment and correlation systems, and delivering stakeholder-specific intelligence in high-stakes operational environments. That work has run parallel to continuous self-directed technical education throughout my career, including math, computer science, programming, a post-graduate certification in data science and business analytics at UT McCombs, and now Georgia Tech's OMSA. The formal methods have always followed the operational problems that made them necessary.
+I've spent my career extracting signal from complex, high-volume, poorly-documented data, designing collection pipelines, building enrichment and correlation systems, and delivering stakeholder-specific intelligence in high-stakes operational environments. That work has run parallel to continuous self-directed technical education, including math, computer science, programming, a post-graduate certification in data science and business analytics at UT McCombs, and now a Master of Science in Analytics at Georgia Tech. The formal methods have always followed the operational problems that made them necessary.
 
-This portfolio is where those two things meet.
+I'm now applying the same instinct to AI systems: working out what a model is doing when you can't check its work directly. My first project tests whether a model's own hesitation reveals that it's been told to underperform.
+
+This portfolio is where those things meet.
 
 ---
 
 ## Portfolio
 
-| Repository | Domain |
+### AI Safety
+
+| Project | What it shows |
 |---|---|
-| [IRS MeF Intelligence System](https://github.com/roholly/irs-mef-intelligence-system) | Enterprise Monitoring · Event Management · Custom Log Monitoring |
-| [Power Grid Optimization](https://github.com/roholly/power-grid-optimization) | Energy Markets · Grid Operations · Operations Research |
-| [ReneWind Predictive Maintenance](https://github.com/roholly/renewind-predictive-maintenance) | Renewable Energy · Industrial ML |
-| [EasyVisa Classification](https://github.com/roholly/easyvisa-classification) | Immigration · Policy Analytics |
-| [Trade & Ahead Stock Clustering](https://github.com/roholly/trade-ahead-stock-clustering) | Finance · Portfolio Analytics |
-| [E-news Express A/B Test](https://github.com/roholly/enews-express-ab-test) | Digital Media · Experimental Design |
-| [Atlanta Climate Analysis](https://github.com/roholly/atlanta-climate-analysis) | Environmental · Time Series |
-| [Utility Shutoff Optimization](https://github.com/roholly/utility-shutoff-optimization) | Operations Research · Public Utility |
-| [Airport Security Simulation](https://github.com/roholly/airport-security-simulation) | Operations Research · Discrete-Event Simulation |
-| [Geospatial Data Integration: SSURGO & Macrostrat](https://github.com/roholly/geospatial-ssurgo-macrostrat) | Geospatial Data Integration · Geology · Soil Science |
-| [RoSmart Circuit: MIT REDD Energy App](https://github.com/roholly/RoSmart_Circuit_MIT_Data) | Energy Disaggregation · Reporting Tool · Proof of Concept |
+| [Sandbagging Hesitation Monitor](https://github.com/roholly/sandbagging-hesitation-monitor) | Can a monitor detect when an AI model is told to underperform, using only how hesitant it was? On 200 math problems, yes: AUC 0.997 against a matched control, including answers that were still correct. Limitations stated plainly. |
+
+### Monitoring & Anomaly Detection
+
+| Project | What it shows |
+|---|---|
+| [IRS MeF Intelligence System](https://github.com/roholly/irs-mef-intelligence-system) | Reconstructed transaction sessions from interleaved logs across 36 XML security gateways, producing ~200 metrics every five minutes for national e-File oversight. Documentation only; source code is not public. |
+| [Atlanta Climate Analysis](https://github.com/roholly/atlanta-climate-analysis) | CUSUM change detection and Holt-Winters smoothing on 20 years of daily temperatures to find each year's end of summer and test for a sustained warming trend. |
+| [Power Grid Optimization](https://github.com/roholly/power-grid-optimization) | Layered framework for regional grid operations: demand forecasting, CUSUM anomaly detection, day-ahead unit commitment, and real-time dispatch. |
+
+### Machine Learning & Operations Research
+
+| Project | What it shows |
+|---|---|
+| [ReneWind Predictive Maintenance](https://github.com/roholly/renewind-predictive-maintenance) | Seven classifiers across three class-imbalance strategies on 20,000 turbines, optimized for recall because a missed failure costs far more than an inspection. |
+| [Utility Shutoff Optimization](https://github.com/roholly/utility-shutoff-optimization) | Four-step pipeline design: SVM classification, logistic prioritization, integer-programming crew assignment, and route optimization. |
+| [Airport Security Simulation](https://github.com/roholly/airport-security-simulation) | Two-stage discrete-event simulation (SimPy): 36 staffing configurations × 50 replications against a 15-minute wait target. |
+| [Geospatial Data Integration: SSURGO & Macrostrat](https://github.com/roholly/geospatial-ssurgo-macrostrat) | Joined USDA soil and Macrostrat geology data via REST APIs to connect soil chemistry to the geology underneath. |
+| [RoSmart Circuit: MIT REDD Energy App](https://github.com/roholly/RoSmart_Circuit_MIT_Data) | Proof-of-concept web app visualizing MIT's Reference Energy Disaggregation Data Set. |
+
+### Coursework
+
+| Project | What it shows |
+|---|---|
+| [EasyVisa Classification](https://github.com/roholly/easyvisa-classification) | Predicting visa certification outcomes with ensemble models, optimizing F1 because both error types carry real costs. |
+| [Trade & Ahead Stock Clustering](https://github.com/roholly/trade-ahead-stock-clustering) | Clustering 337 NYSE companies by financial behavior into investor profiles. |
+| [E-news Express A/B Test](https://github.com/roholly/enews-express-ab-test) | Landing-page experiment analyzed with t-tests, two-proportion z-tests, and chi-square tests. |
 
 ---
 
 ## Technical Skills
 
 **Languages**  
-Python · R · SQL · comfortable working across languages as problems require
+Python · R · SQL · Perl · Java · comfortable working across languages as problems require
+
+**AI & LLMs**  
+Hugging Face transformers · PyTorch · token-level probability analysis · evaluation design with controls
 
 **Machine Learning & Statistics**  
 Supervised learning: regression, classification, ensemble methods (Random Forest, XGBoost, Gradient Boosting, AdaBoost, Bagging)  
@@ -72,9 +93,11 @@ Full documentation of this system is in the [IRS MeF Intelligence System](https:
 
 ## Background
 
-30 years in enterprise IT, primarily IRS, DoD, Navy, Army, and the VA, through SRA International, IBM, Cognosante, GovernmentCIO, and Luminara Consulting, the woman-owned small business I founded (SBA-certified, D&B Past Performance score: 96%). Co-authored two IBM Redbook publications on enterprise IT service management.
+Enterprise IT across the IRS, DoD, Navy, Army, and the VA, through SRA International, IBM, Cognosante, GovernmentCIO, and Luminara Consulting, the woman-owned small business I founded (SBA-certified, D&B Past Performance score: 96%). Co-authored two IBM Redbook publications on enterprise IT service management.
 
-I'm looking for senior leadership roles where strategic judgment, analytical depth, and operational credibility are all expected — where leading the work and understanding the work aren't treated as separate jobs.
+Graduate study: Master of Science in Analytics, Georgia Tech (in progress) · UT McCombs Post-Graduate Certificate in Data Science & Business Analytics.
+
+I want to do hands-on technical work in AI evaluation and safety, and I bring a track record of leading technical teams through ambiguous, high-stakes problems.
 
 ---
 

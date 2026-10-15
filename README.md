@@ -1,6 +1,6 @@
 # Rosemary Holly
 
-**Data Science · Data Engineering · AI Strategy**  
+**Data Science · Data Engineering · Data-Driven Strategy**  
 [LinkedIn](https://www.linkedin.com/in/rosemaryholly/)
 
 ---
@@ -27,7 +27,7 @@ This portfolio is where those things meet.
 
 | Project | What it shows |
 |---|---|
-| [IRS MeF Intelligence System](https://github.com/roholly/irs-mef-intelligence-system) | Reconstructed transaction sessions from interleaved logs across 36 XML security gateways, producing ~200 metrics every five minutes for national e-File oversight. Documentation only; source code is not public. |
+| [IRS Modernized e-File Monitoring and Event Management](https://github.com/roholly/irs-mef-monitoring) | Reconstructed transaction sessions from interspersed logs across the 36 security gateways handling national e-File traffic, producing ~200 metrics every five minutes for national e-File oversight. Documentation only; source code is not public. |
 | [Atlanta Climate Analysis](https://github.com/roholly/atlanta-climate-analysis) | CUSUM change detection and Holt-Winters smoothing on 20 years of daily temperatures to find each year's end of summer and test for a sustained warming trend. |
 | [Power Grid Optimization](https://github.com/roholly/power-grid-optimization) | Layered framework for regional grid operations: demand forecasting, CUSUM anomaly detection, day-ahead unit commitment, and real-time dispatch. |
 
@@ -83,11 +83,11 @@ AWS (GovCloud and Commercial), held Cloud Service Owner role for VA Enterprise C
 
 The analytical work in this portfolio reflects methods I'm building formally. The instinct behind it is older.
 
-For the IRS Modernized eFile program, I designed and built a centralized intelligence system that processed hundreds of thousands of interspersed log lines per polling interval across 36 XML security gateways, reconstructing session transaction statistics by tracking state in memory by gateway device name and session ID, producing approximately 200 distinct enriched metrics every five minutes for national-scale tax filing oversight. A separate automated reporting layer integrated seven disparate data sources into a custom database and schema, delivering stakeholder-specific daily intelligence to IRS executives for program and migration decisions. Several source systems were undocumented; I reverse-engineered the backend to surface signals not otherwise accessible.
+For the IRS Modernized eFile program, I designed and built a centralized monitoring and event management system that processed hundreds of thousands of interspersed log lines per polling interval across 36 security gateways, reconstructing session transaction statistics by tracking state in memory by gateway device name and session ID, producing approximately 200 distinct enriched metrics every five minutes for national-scale tax filing oversight. A separate automated reporting layer integrated seven disparate data sources into a custom database and schema, delivering stakeholder-specific daily intelligence to IRS executives for program and migration decisions. Several source systems were undocumented; I reverse-engineered the backend to surface signals not otherwise accessible.
 
 That's the problem I find interesting: taking data that is complex, high-volume, fragmented, or poorly understood, and making it tell you something actionable.
 
-Full documentation of this system is in the [IRS MeF Intelligence System](https://github.com/roholly/irs-mef-intelligence-system) repository.
+Full documentation of this system is in the [IRS Modernized e-File Monitoring and Event Management](https://github.com/roholly/irs-mef-monitoring) repository.
 
 ---
 

@@ -81,7 +81,7 @@ AWS (GovCloud and Commercial), held Cloud Service Owner role for VA Enterprise C
 
 ## What I've Actually Built
 
-The analytical work in this portfolio reflects methods I'm building formally. The instinct behind it is older.
+The analytical work in this portfolio reflects methods I'm building formally.
 
 For the IRS Modernized eFile program, I designed and built a centralized monitoring and event management system that processed hundreds of thousands of interspersed log lines per polling interval across 36 security gateways, reconstructing session transaction statistics by tracking state in memory by gateway device name and session ID, producing approximately 200 distinct enriched metrics every five minutes for national-scale tax filing oversight. A separate automated reporting layer integrated seven disparate data sources into a custom database and schema, delivering stakeholder-specific daily intelligence to IRS executives for program and migration decisions. Several source systems were undocumented; I reverse-engineered the backend to surface signals not otherwise accessible.
 
